@@ -34,12 +34,24 @@
      - signin.blade.php
      - header.blade.php
  
+## DataBase
+
+ <p align="center">   <img src="https://github.com/salsabil77115/shopping_cart/blob/master/ERD.png" width="400">
+ </p>
+ we have products table with attribute (imagaePath, title, price, description, weight)
+        And offers table with attribute (discountValue, descripttion)
+        And countries table with attribute (rate, name)
+ - Relationships 
+     products have many offers, offer have  one product
+     products have one country, country has many products
+
 ## Run the program 
 
      1) we call index route '/' --> index.blade.php 
      2) add product to cart then cart number is updated 
      3) after finish shopping go to shipping cart in navbar
      4) here we can see all products with his price and qantity, shipping, VAT, Discounts, total price after Discounts .
+
 
 
 
