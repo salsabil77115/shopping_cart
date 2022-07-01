@@ -13,18 +13,19 @@
   - Controller
   - Model
   - View
+ 
  we have created 4 Model :
 
     1) for Users 
     2) for products
     3) for offers
     4) for Countries
-we have created 2 Controllers :
+ we have created 2 Controllers :
 
     1) for Users 
     2) for Product
  
-we have several view :
+ we have several view :
  
      - index.blade.php --->   products page 
      - shopping-cart.blade.php ---> cart view products (here our task calculation)
