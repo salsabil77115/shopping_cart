@@ -44,8 +44,9 @@
         
  - Relationships 
  
-     products have many offers, offer have  one product
-     products have one country, country has many products
+    products have many offers, offer have  one product
+     
+    products have one country, country has many products
 
 ## Run the program 
 
