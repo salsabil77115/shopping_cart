@@ -15,30 +15,30 @@
   - View
  we have created 4 Model :
 
-- 1) for Users 
-- 2) for products
-- 3) for offers
-- 4) for Countries
+    1) for Users 
+    2) for products
+    3) for offers
+    4) for Countries
 we have created 2 Controllers :
 
- - 1) for Users 
- - 2) for Product
+    1) for Users 
+    2) for Product
  
-we have several view 
+we have several view :
  
- - index.blade.php --->   products page 
- - shopping-cart.blade.php ---> cart view products (here our task calculation)
- - checkout.blade.php --> view for checkout page (not implemented, view only)
- - signup.blade.php
- - signin.blade.php
- - header.blade.php
+     - index.blade.php --->   products page 
+     - shopping-cart.blade.php ---> cart view products (here our task calculation)
+     - checkout.blade.php --> view for checkout page (not implemented, view only)
+     - signup.blade.php
+     - signin.blade.php
+     - header.blade.php
  
-##Run the program 
+## Run the program 
 
- 1) we call index route '/' --> index.blade.php 
- 2) add product to cart then cart number is updated 
- 3) after finish shopping go to shipping cart in navbar
- 4) here we can see all products with his price and qantity, shipping, VAT, Discounts, total price after Discounts .
+     1) we call index route '/' --> index.blade.php 
+     2) add product to cart then cart number is updated 
+     3) after finish shopping go to shipping cart in navbar
+     4) here we can see all products with his price and qantity, shipping, VAT, Discounts, total price after Discounts .
 
 
 
