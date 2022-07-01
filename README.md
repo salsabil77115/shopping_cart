@@ -41,7 +41,9 @@
  we have products table with attribute (imagaePath, title, price, description, weight)
         And offers table with attribute (discountValue, descripttion)
         And countries table with attribute (rate, name)
+        
  - Relationships 
+ 
      products have many offers, offer have  one product
      products have one country, country has many products
 
