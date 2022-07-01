@@ -27,12 +27,12 @@
  
  we have several view :
  
-     - index.blade.php --->   products page 
-     - shopping-cart.blade.php ---> cart view products (here our task calculation)
-     - checkout.blade.php --> view for checkout page (not implemented, view only)
-     - signup.blade.php
-     - signin.blade.php
-     - header.blade.php
+   - index.blade.php --->   products page 
+   - shopping-cart.blade.php ---> cart view products (here our task calculation)
+   - checkout.blade.php --> view for checkout page (not implemented, view only)
+   - signup.blade.php
+   - signin.blade.php
+   - header.blade.php
  
 ## DataBase
 
